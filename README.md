@@ -1,9 +1,9 @@
 # Criação de uma loja virtual
 
-| Algumas Ferramentas / Bibliotecas utilizadas |
-| -------------------------------------------- |
-| ReactJs                                      | Para a construção da Interface |
-| Redux                                        | Para a implementação da arquitetura FLUX, ou seja gerenciar o estado do aplicativo |
+| Algumas Ferramentas / Bibliotecas | Descrição                                                                           |
+| --------------------------------- |-------------------------------------------------------------------------------------|
+| ReactJs                           | Para a construção da Interface |
+| Redux                             | Para a implementação da arquitetura FLUX, ou seja gerenciar o estado do aplicativo |
 | Axios                                        | Para fazer as chamadas a api |
 | Json-server                                  | Biblioteca que permite criar um arquivo JSON e criar uma API apartir dela |
 | Styled-components                            | Para a estilização do CSS com arquivo em formato de .js, uma biblioteca para React e React-Native |
